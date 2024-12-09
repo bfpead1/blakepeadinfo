@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.site-heading-lower{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mb-3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#mainNav{
+    background-color: rgba(65, 105, 225, 0.53);
+}
